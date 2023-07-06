@@ -42,8 +42,14 @@ Haz clic en el botón "Seleccionar archivo" y elige el archivo SQL del repositor
 Haz clic en el botón "Continuar" o "Go" para importar la base de datos.
 Recuerda actualizar tu archivo .env con el nombre de la base de datos que acabas de crear.
 
-#### Ejecutar las migraciones
-php artisan migrate
+#### Generar la clave de la aplicación
+
+
+
+Laravel requiere una clave de aplicación para cifrar tus datos de sesión y otros datos. Puedes generar la clave de la aplicación utilizando el siguiente comando:
+
+php artisan key:generate
+
 
 #### Iniciar el servidor de desarrollo
 
