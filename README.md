@@ -1,5 +1,5 @@
 # prueba-blog-wiber
-CRUD de blog sobre noticias IA para prueba tecnica Wiber.
+CRUD de blog sobre noticias IA para prueba tecnica Wiber, creado con PHP, Laravel, Javascript y Tailwind CSS.
 
 # Instrucciones de instalación
 #### Clonar el repositorio
