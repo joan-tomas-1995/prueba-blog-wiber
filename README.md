@@ -1,12 +1,17 @@
 # prueba-blog-wiber
-CRUD de blog sobre noticias IA para prueba tecnica Wiber, creado con PHP, Laravel, Javascript y Tailwind CSS diseño responsive y optimizado para SEO.
+CRUD de blog sobre noticias IA para prueba tecnica Wiber, creado con PHP, Laravel, Javascript y Tailwind CSS con diseño responsive y optimizado para SEO.
+EN este blog se puede crear una noticia, editarla o eliminarla.
+
+#### Requisitos
+
+Para poder levantar el proyecto necesitas tener instalado [Composer](https://getcomposer.org/), [XAMPP(PHP + MySQL)](https://www.apachefriends.org/es/index.html), [Nodejs](https://nodejs.org/) y [Git](https://git-scm.com/).
 
 # Instrucciones de instalación
 #### Clonar el repositorio
 
 Primero, necesitarás clonar el repositorio en tu máquina local. Puedes hacerlo utilizando el siguiente comando de Git:
 
-git clone https://github.com/joan-tomas-1995/prueba-blog-wiber.git
+```git clone https://github.com/joan-tomas-1995/prueba-blog-wiber.git```
 o descargar el achivo zip.
 
 
@@ -15,14 +20,14 @@ o descargar el achivo zip.
 Una vez que hayas clonado el repositorio, navega hasta el directorio del proyecto y ejecuta el siguiente comando para instalar todas las dependencias necesarias:
 
 
-composer install
+```composer install```
 
 #### Configurar el entorno
 
 Copia el archivo .env.example y renómbralo a .env. Luego, abre el archivo .env y configura tus variables de entorno, incluyendo tus detalles de conexión a la base de datos:
 
 
-cp .env.example .env
+```cp .env.example .env```
 
 DB_CONNECTION=mysql <br>
 DB_HOST=127.0.0.1 <br>
@@ -48,9 +53,9 @@ Recuerda actualizar tu archivo .env con el nombre de la base de datos que acabas
 
 Laravel requiere una clave de aplicación para cifrar tus datos de sesión y otros datos. Puedes generar la clave de la aplicación utilizando el siguiente comando:
 
-php artisan key:generate
+```php artisan key:generate```
 
 
 #### Iniciar el servidor de desarrollo
 
-php artisan serve
+```php artisan serve```
