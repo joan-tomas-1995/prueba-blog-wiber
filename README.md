@@ -59,3 +59,21 @@ Laravel requiere una clave de aplicación para cifrar tus datos de sesión y otr
 #### Iniciar el servidor de desarrollo
 
 ```php artisan serve```
+
+#### Captura de la Home
+
+![img-home](https://github.com/joan-tomas-1995/prueba-blog-wiber/assets/4356870/e12714f7-f10f-4ab6-8fb7-8fb2be125119)
+
+#### Captura de la seccion Noticias
+
+![Noticias IA](https://github.com/joan-tomas-1995/prueba-blog-wiber/assets/4356870/8bdd2119-4d4a-4205-be2d-7759bff2df55)
+
+#### Captura de seccion noticia unica, con editar y eliminar noticia
+
+![noticia-unica](https://github.com/joan-tomas-1995/prueba-blog-wiber/assets/4356870/53e17cd6-3c55-4245-9738-01012021c2b0)
+
+#### Captura de la seccion Crear Noticias
+
+![Crear noticia](https://github.com/joan-tomas-1995/prueba-blog-wiber/assets/4356870/58766b0b-f3c2-4637-99da-50b5436e6707)
+
+
