@@ -1,6 +1,6 @@
 # prueba-blog-wiber
-CRUD de blog sobre noticias IA para prueba tecnica Wiber, creado con PHP, Laravel, Javascript y Tailwind CSS con diseño responsive y optimizado para SEO.
-EN este blog se puede crear una noticia, editarla o eliminarla.
+Este proyecto es una aplicación web desarrollada con Laravel, un framework de PHP. El proyecto implementa un blog con funcionalidades básicas como la creación, edición, visualización y eliminación de publicaciones.
+Creado con PHP, Laravel, Javascript y Tailwind CSS con diseño responsive y optimizado para SEO.
 
 #### Requisitos
 
