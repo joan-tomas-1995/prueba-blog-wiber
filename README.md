@@ -40,12 +40,12 @@ DB_PASSWORD= <br>
 
 Para importar la base de datos a SQL llamada blog.sql en el repositios, sigue estos pasos:
 
-Abre phpMyAdmin y crea una nueva base de datos.
-Selecciona la base de datos que acabas de crear.
-Haz clic en la pestaña "Importar".
-Haz clic en el botón "Seleccionar archivo" y elige el archivo SQL del repositorio.
-Haz clic en el botón "Continuar" o "Go" para importar la base de datos.
-Recuerda actualizar tu archivo .env con el nombre de la base de datos que acabas de crear.
+Abre phpMyAdmin y crea una nueva base de datos. <br>
+Selecciona la base de datos que acabas de crear. <br>
+Haz clic en la pestaña "Importar". <br>
+Haz clic en el botón "Seleccionar archivo" y elige el archivo SQL del repositorio. <br>
+Haz clic en el botón "Continuar" o "Go" para importar la base de datos. <br>
+Recuerda actualizar tu archivo .env con el nombre de la base de datos que acabas de crear. <br>
 
 #### Generar la clave de la aplicación
 
@@ -79,10 +79,10 @@ Laravel requiere una clave de aplicación para cifrar tus datos de sesión y otr
 
 #### Futuras implementaciones que haría
 
--Mejorar la entrada del texarea para que la noticia tenga titulos, enlaces y un formato mejor.
--Creacion de la funcionalidad del log in.
--Mejora de maquetación.
--Ver noticias por categorias.
--Añadir buscador.
+-Mejorar la entrada del texarea para que la noticia tenga titulos, enlaces y un formato mejor. <br>
+-Creacion de la funcionalidad del log in. <br>
+-Mejora de maquetación. <br>
+-Ver noticias por categorias. <br>
+-Añadir buscador. <br>
 
 
