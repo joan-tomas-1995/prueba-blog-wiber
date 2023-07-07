@@ -77,3 +77,12 @@ Laravel requiere una clave de aplicación para cifrar tus datos de sesión y otr
 ![Crear noticia](https://github.com/joan-tomas-1995/prueba-blog-wiber/assets/4356870/58766b0b-f3c2-4637-99da-50b5436e6707)
 
 
+#### Futuras implementaciones que haría
+
+-Mejorar la entrada del texarea para que la noticia tenga titulos, enlaces y un formato mejor.
+-Creacion de la funcionalidad del log in.
+-Mejora de maquetación.
+-Ver noticias por categorias.
+-Añadir buscador.
+
+
